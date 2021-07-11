@@ -335,7 +335,7 @@ Thread.start {
 
 ### C
 
-Compile with `gcc /tmp/shell.c --output csh && csh`
+Compile with `gcc /tmp/shell.c --output csh && ./csh`
 
 ```csharp
 #include <stdio.h>
